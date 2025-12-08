@@ -18,7 +18,7 @@ spec:
     metadata:
       labels:
         # purpose: dp-demo
-        purpose: htolerations-demo
+        purpose: tolerations-demo
         project: roboshop
     spec:
       containers:
